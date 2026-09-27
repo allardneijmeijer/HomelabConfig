@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="e3a06f82-3646-2815-327d-82caf3d4e204" name="Page-1">
-    <mxGraphModel dx="1428" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1214" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" parent="0" style=";html=1;" />
@@ -22,11 +22,86 @@
         <mxCell id="Ivfm2AhsBRitwl1QfE3P-2" parent="1" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.router" value="Edgerouter 4" vertex="1">
           <mxGeometry height="60.84" width="78" x="910" y="220" as="geometry" />
         </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-5" edge="1" parent="1" source="Ivfm2AhsBRitwl1QfE3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-9" edge="1" parent="1" source="Ivfm2AhsBRitwl1QfE3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-11" edge="1" parent="1" source="Ivfm2AhsBRitwl1QfE3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-13" edge="1" parent="1" source="Ivfm2AhsBRitwl1QfE3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ivfm2AhsBRitwl1QfE3P-4" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="Unifi switch lite 16 POE" vertex="1">
-          <mxGeometry height="80" width="80" x="910" y="350" as="geometry" />
+          <mxGeometry height="80" width="80" x="909" y="350" as="geometry" />
         </mxCell>
         <mxCell id="Ivfm2AhsBRitwl1QfE3P-5" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/iot-devices/1/Television-159.svg" value="TV decoder" vertex="1">
           <mxGeometry height="40" width="42" x="690" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-1" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" value="DS220+" vertex="1">
+          <mxGeometry height="67.2" width="77.4" x="877" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-2" parent="1" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" value="Optiplex 3080 / Proxmox&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="770" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-3" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" value="Unifi AP AC Lite (x3)" vertex="1">
+          <mxGeometry height="54.6" width="36.6" x="1110" y="526.3" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-4" edge="1" parent="1" source="Ivfm2AhsBRitwl1QfE3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.432;entryY=0.06;entryDx=0;entryDy=0;entryPerimeter=0;" target="1BAxzo9yqs0ok0-LgAWj-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-6" edge="1" parent="1" source="Ivfm2AhsBRitwl1QfE3P-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.464;entryY=0.037;entryDx=0;entryDy=0;entryPerimeter=0;" target="1BAxzo9yqs0ok0-LgAWj-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-7" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/wireless/Access_Point_Indoor.svg;" value="Unifi AP 6 lite" vertex="1">
+          <mxGeometry height="54.6" width="36.6" x="1220" y="526.3" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-20" edge="1" parent="1" source="1BAxzo9yqs0ok0-LgAWj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-22" edge="1" parent="1" source="1BAxzo9yqs0ok0-LgAWj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-24" edge="1" parent="1" source="1BAxzo9yqs0ok0-LgAWj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-26" edge="1" parent="1" source="1BAxzo9yqs0ok0-LgAWj-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-8" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="Unifi switch flex mini" vertex="1">
+          <mxGeometry height="80" width="80" x="320" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-17" edge="1" parent="1" source="1BAxzo9yqs0ok0-LgAWj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="1BAxzo9yqs0ok0-LgAWj-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-18" edge="1" parent="1" source="1BAxzo9yqs0ok0-LgAWj-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="1BAxzo9yqs0ok0-LgAWj-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-10" parent="1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" value="D-link DGS-105" vertex="1">
+          <mxGeometry height="80" width="80" x="1490" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-12" parent="1" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Rack_Storage_Unit_Small.svg;" value="DS215j&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="67.2" width="77.4" x="980" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-15" parent="1" style="shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.pc;network2IconYOffset=-0.0593;network2IconW=0.9999;network2IconH=0.7096;" value="Dell monitor dock" vertex="1">
+          <mxGeometry height="35.480000000000004" width="49.995" x="1456" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-16" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/font-awesome/1/Xbox_brand.svg" value="xbox" vertex="1">
+          <mxGeometry height="40" width="40" x="1560" y="675.48" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-19" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.tv;" value="LG TV" vertex="1">
+          <mxGeometry height="45" width="59" x="220" y="646.4" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-21" parent="1" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.apple;fillColor=#1B1C1C;strokeColor=none" value="Apple TV" vertex="1">
+          <mxGeometry height="76.2" width="62.400000000000006" x="310" y="625.68" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-23" parent="1" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/assets/font-awesome/1/Xbox_brand.svg" value="xbox" vertex="1">
+          <mxGeometry height="40" width="40" x="420" y="643.78" as="geometry" />
+        </mxCell>
+        <mxCell id="1BAxzo9yqs0ok0-LgAWj-25" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.loudspeaker;" value="TX-nr636" vertex="1">
+          <mxGeometry height="50" width="25" x="510" y="646.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
